@@ -12,7 +12,6 @@ int main()
     {
         ll n;
         string a, b;
-
         cin >> n >> a >> b;
 
         vector<ll> freq1(26), freq2(26);
