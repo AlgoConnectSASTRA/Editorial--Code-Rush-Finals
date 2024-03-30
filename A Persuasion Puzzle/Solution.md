@@ -1,5 +1,5 @@
-1. Have a variable (let's call it **result**) for keeping track of the days where you scored the perfect score.
-2. Declare a variable (let's call it **sum**) to keep track of the T-shirts sold so far.
+1. Have a variable (let's call it **result** ) for keeping track of the days where you scored the perfect score.
+2. Declare a variable (let's call it **sum** ) to keep track of the T-shirts sold so far.
 3. Iterate through the array,
     a. Update the sum in each iteration. 
     b. If the (sum/current day)*10 is equal to 10, increment the result by 1
