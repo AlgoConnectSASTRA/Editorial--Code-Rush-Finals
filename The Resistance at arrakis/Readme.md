@@ -2,6 +2,8 @@
   - We have to iterate through the array, while updating count.
   - Increment count if a column of length >=L is spotted.
   - Make count 0, if a column of length <L is spotted.
+  - If at any point count ==L, return True ( meaning it can be formed)
+- If at no points count==L, return False. (It cannot be formed)  
 
 - We can try doing this for all possible sizes from 1 to max(array), but it will result in TLE -> O(n2).
 - To optimize this, we can use Binary search on answer,
