@@ -1,3 +1,5 @@
+Problem link: https://www.hackerrank.com/contests/coderush-24-finals/challenges/the-resistance-at-arrakis
+
 - To find if a square of side L can be fitted inside the given configuration,
   - We have to iterate through the array, while updating count.
   - Increment count if a column of length >=L is spotted.
