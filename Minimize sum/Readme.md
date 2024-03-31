@@ -1,3 +1,4 @@
+Problem link: https://www.hackerrank.com/contests/coderush-24-finals/challenges/msum
 
 - We know that, GCD( GCD(a,b) , c) is GCD (a,b,c).
 - Thus, GCD( GCD(a,b) , a) = GCD( GCD(a,b),b) = GCD(a,b)
