@@ -1,3 +1,5 @@
+Problem link: https://www.hackerrank.com/contests/coderush-24-finals/challenges/shuffle-challenge
+
 In order to minimize length of Longest Commomn Substring of the two strings, we arrange the first string in ascending order(a->z) and the second string in descending order(z->a).
 
 For example consider:<br/>
