@@ -4,7 +4,7 @@ For example consider:<br/>
 a = adabdfagfdak -> a = aaaabdddffgk<br/>
 b = ajeacbeabhdh -> b = jhheedcbbaaa<br/>
 
-Hence, the possible combinations of common substrings is the characters that are common in both strings. By taking the minimum frequency of each character in the two strings, we get the length of these common substrings. This ensures that we consider only the shared occurrences while determining the length of the common substrings.
+Hence, the possible combinations of common substrings are the characters that are common in both strings. By taking the minimum frequency of each character in the two strings, we get the length of these common substrings. This ensures that we consider only the shared occurrences while determining the length of the common substrings.
 
 Here the possible common substrings are: <br/>
 a with length -> min(4,3) -> 3 <br/>
