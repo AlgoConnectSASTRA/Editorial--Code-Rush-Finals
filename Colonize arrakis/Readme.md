@@ -1,0 +1,2 @@
+- This problem just requires observation,
+- The time it would take to colonize arrakis is length(array)-min(array).
