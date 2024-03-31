@@ -1,5 +1,7 @@
 # Editorial--Code-Rush-Finals
-Editorial for the finals of CodeRush'24, Link: https://www.hackerrank.com/contests/coderush-24-finals/challenges
+Editorial for the finals of CodeRush'24.
+
+Contest link: https://www.hackerrank.com/contests/coderush-24-finals/challenges
 
 # Credits
 
