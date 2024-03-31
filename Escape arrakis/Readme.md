@@ -7,6 +7,6 @@
     - Second term: If electric-power  *j* can be formed using the elements of C from 0 to *i-1*,   
 - To bypass Memory Limit Exceeded, we have to space-optimize,
   -   We can see that the dp[i][j] depends on dp[i][j- C[i] ] + 1 , dp[i-1][j] i.e current row and previous row.
-  -   Hence there is no need to store rows from 0, i-2.
+  -   Hence there is no need to store rows from 0 to i-2, and thus 2 arrays each of size k+1 will suffice.
 
  - Video explanation: https://www.youtube.com/watch?v=HgyouUi11zk
