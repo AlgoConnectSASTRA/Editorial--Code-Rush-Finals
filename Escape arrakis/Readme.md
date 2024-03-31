@@ -1,3 +1,5 @@
+Problem link : https://www.hackerrank.com/contests/coderush-24-finals/challenges/escape-arrakis
+
 - This problem can be solved with DP and is a very common problem under **Unbounded knapsack**.
 - dp[i][j] denotes minimum number of batteries required to form the electric-power *j*  using the elements of C from 0 to *i*.
 - dp[i][j] is thus:
